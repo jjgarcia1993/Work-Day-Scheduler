@@ -12,9 +12,9 @@ An application that allows users to manage events during the day by the hour.
 
 * CSS
 
-*Javascript
+* Javascript
 
-*jQuery
+* jQuery
 
 ## Website
 
