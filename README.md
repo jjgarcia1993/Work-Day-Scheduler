@@ -18,7 +18,7 @@ An application that allows users to manage events during the day by the hour.
 
 ## Website
 
-https://jjgarcia1993.github.io/work-day-scheduler
+https://jjgarcia1993.github.io/Work-Day-Scheduler/
 
 
 ## Contribution
